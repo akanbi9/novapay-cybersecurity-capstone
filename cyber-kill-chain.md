@@ -10,23 +10,21 @@ The Cyber Kill Chain breaks an attack into 7 stages, showing how a small mistake
 - Employee names and roles (from LinkedIn, company website, social media)
 - Email formats (e.g., firstname.lastname@novapay.com)
 - Office location (useful for dropping a "lost" USB drive nearby)
-- What software/services NovaPay uses (from job postings, tech stack mentions)
+- What software NovaPay uses (from job postings)
 
 ### Stage 2 — Weaponization
 **What malicious tool the attacker could prepare:**
 - A USB drive pre-loaded with malware that runs automatically when plugged in
 - Malware bundled with a keylogger, designed to silently capture keystrokes 
-  (usernames, passwords, card numbers)
+  (usernames, passwords, ID card numbers)
 
 ### Stage 3 — Delivery
 **How the attack reaches an employee:**
-- **Malicious USB** — left outside the office, relying on curiosity (this matches 
-  Event 1 exactly)
-- Other common delivery methods: phishing emails, malicious attachments, or fake 
-  /compromised websites
+- **Malicious USB** — left outside the office, relying on curiosity.
+- Other common delivery methods: phishing emails, malicious attachment whereby the user will click on it.
 
 ### Stage 4 — Exploitation
-**What human mistake or weakness lets it succeed:**
+**What human mistake:**
 - The employee plugs the unknown USB into a company computer without checking with 
   IT first — this is a **human error**, not a technical flaw. Most successful 
   attacks rely on this kind of trust or curiosity rather than breaking through 
@@ -46,11 +44,10 @@ The Cyber Kill Chain breaks an attack into 7 stages, showing how a small mistake
 
 ### Stage 7 — Actions on Objectives
 **What the attacker ultimately wants:**
-- Steal employee passwords (Event 2)
-- Log into employee accounts using those stolen credentials (Event 3)
-- Access sensitive customer or financial information
-- Potentially steal money or sell the stolen data
-- Damage NovaPay's reputation (connects to Event 5's fake news attack)
+- Steal employee passwords
+- Log into employee accounts using the stolen credentials
+- Access sensitive data or financial information
+- Damage NovaPay's reputation (by creating fake news)
 
 
 
