@@ -50,8 +50,34 @@ The Cyber Kill Chain breaks an attack into 7 stages, showing how a small mistake
 - Damage NovaPay's reputation (by creating fake news)
 
 
+## Kill Chain Diagram
 
-
+    1. RECONNAISSANCE
+        (Attacker researches NovaPay & employees)
+                |
+                v
+    2. WEAPONIZATION
+        (Malware is prepared, e.g. on a USB drive)
+                |
+                v
+    3. DELIVERY
+        (USB left outside the office)
+                |
+                v
+    4. EXPLOITATION
+        (Employee plugs in the USB drive)
+                |
+                v
+    5. INSTALLATION
+        (Keylogger malware installed on PC)
+                |
+                v
+    6. COMMAND & CONTROL
+        (Infected PC connects back to attacker)
+                |
+                v
+    7. ACTIONS ON OBJECTIVES
+        (Passwords stolen -> account accessed -> data/money at risk)
 
 
 
