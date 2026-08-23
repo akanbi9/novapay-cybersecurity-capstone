@@ -24,11 +24,12 @@ A reputation attack is false information deliberately used to damage a company's
 
 ### The Verification Process: STOP → CHECK → VERIFY → CONFIRM → SHARE
 
-1. **STOP** — Don't share or react right away, even if the post feels urgent. Panic is exactly what disinformation is designed to create.
-2. **CHECK** — Look at where it came from. Is it NovaPay's official, verified account, or an unfamiliar/suspicious one?
-3. **VERIFY** — Compare the claim against trustworthy sources: NovaPay's official website, press releases, or established news outlets.
-4. **CONFIRM** — Still unsure? Ask NovaPay's IT, security, or communications team directly rather than guessing.
-5. **SHARE** — Only share once it's confirmed true — and ideally share NovaPay's official statement, not the original post.
+* [ ] **STOP** — Pause before clicking, replying, downloading, or sharing.
+* [ ] **CHECK** — Examine the sender, source, link, message, and details carefully.
+* [ ] **VERIFY** — Confirm the information using a trusted and independent source.
+* [ ] **CONFIRM** — Make sure the information is accurate and the action is safe.
+* [ ] **SHARE** — Only share the information after it has been verified.
+
 
 ---
 
