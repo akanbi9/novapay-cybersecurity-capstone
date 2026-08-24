@@ -1,6 +1,5 @@
 ## NovaPay Cybersecurity Budget (₦1,500,000 Max)
 
-Here's a simple, easy-to-follow budget that spends the money on the biggest risks first, based on what actually happened at NovaPay.
 
 | # | Security Item | Purpose | Qty | Unit Cost | Total Cost | Priority |
 |---|---|---|---|---|---|---|
